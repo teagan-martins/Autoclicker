@@ -11,9 +11,7 @@ def autoclick():
 			if keyboard.is_pressed('e'):
 				break
 
-tracker = 0
-
-while tracker == 0:
+while true:
 	autoclick()
 
 
